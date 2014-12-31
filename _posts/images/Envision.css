@@ -1,0 +1,230 @@
+* {margin:0 padding:0 outline:0}
+
+body {
+margin-left:100px;
+}
+
+form {
+margin:10px; padding 0 5px;
+border:1px solid #f2f2f2;
+}
+
+#header {
+clear: both;
+position:relative;
+width:715px;
+height:100px;
+margin-left: 150px;
+border-style:1px,solid;
+border-radius:1em;
+background: #FFF url(header.png) no-repeat center top;
+}
+
+#header h1#logo-text a {
+float:left;
+    text-decoration:none;
+    font-size:40px;
+    margin-top:10px;
+    color:#Fff;
+    margin-left:20px;
+}
+
+#inf-board {
+width:180px;
+height:80px;
+margin-left:520px;
+position:absolute;
+}
+
+#inf-board p a{
+color:#FFF;
+text-decoration:none;
+}
+
+#header p {
+    height:5px;
+}
+
+#menu {
+width:715px;
+height:40px;
+margin-left:150px;
+margin-top:10px;
+}
+
+#menu ul {
+background:#FFF url(menu.png) no-repeat center top;
+padding:0px;
+margin:0px;
+width:715px;
+height:30px;
+}
+
+#menu ul li {
+float:left;
+width:137px;
+height:30px;
+padding:0px;
+margin-top:7px;
+text-align:center;
+border-style:solid;
+border-size:1px;
+border-color:white;
+}
+
+#menu ul li a { 
+color:#FFF;
+    text-decoration:none;
+}
+
+#hboard {
+width:715px;
+margin-left:150px;
+margin-top:3px;
+border:double #0066FF;
+border-radius:1em;
+}
+
+#hboard h3 {
+width:695px;
+padding:0px;
+margin:0px;
+margin-left:10px;
+}
+
+#loginBoard{
+clear:both;
+position:relative;
+}
+
+#problem #pmenu{
+    margin-top:3px;
+}
+
+#problem #pmenu .search {
+width:100px;
+}
+
+#pboard {
+width:700px;
+       margin-top:15px;
+       margin-left:160px;
+}
+
+#ptable {
+width:700px;
+border:solid white;
+}
+
+#ptable .title {
+background:#FFF url(ptitle.png) no-repeat center top;
+}
+
+#ptable .odd {
+background:#FFF url(podd.png) no-repeat center top;
+}
+
+#pfooter {
+width:700px;
+height:30px;
+       margin-top:15px;
+}
+
+#pfooter a {
+    margin-left:5px;
+}
+
+#optable {
+width:700px;
+}
+
+#oneproblem {
+width:700px;
+    margin-left:150px;
+}
+
+#oneproblem table .title{
+    font-size:20px;
+width:700px;
+height:50px;
+}
+
+#onproblem table .desc {
+width:700px;
+height:300px;
+}
+
+#oneproblem table .desc td textarea{
+width:700px;
+height:150px;
+}
+
+.opbutton {
+width:140px;
+height:20px;
+       margin-left:430px;
+       margin-top:10px;
+}
+
+.submitboard {
+width:715px;
+height:400px;
+       margin-left:150px;
+       margin-top:3px;
+}
+
+.opbutton p {
+float:left;
+width:70px;
+margin:0 auto;
+}
+
+.opbutton p a {
+    font-size:18px;
+    font-weight:bold;
+color:#0040FF;
+    text-decoration: none;
+}
+
+#sproblem {
+width:715px;
+height:550px;
+margin-top:3px;
+}
+
+#ssproblem {
+width:200px;
+}
+
+#sproblem textarea {
+width:500px;
+height:450px;
+margin-top:10px;
+}
+
+#lboard {
+width:280px;
+margin-left:360px;
+margin-top:3px;
+border-radius:1em;
+border:double #0066FF;
+}
+
+#footer {
+background: #FFF url(footer.jpg) no-repeat center top;
+clear: both;
+width: 1000px;
+height: 40px;
+	margin-top:10px;
+	text-align:center;
+}
+
+#footer p {
+margin:0px;
+padding:0px;
+}
+
+#footer a {
+    text-decoration: none;
+}
+
